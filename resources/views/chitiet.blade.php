@@ -1,0 +1,1 @@
+<h1>day la san pahm chi tiet {{$id}}</h1>
